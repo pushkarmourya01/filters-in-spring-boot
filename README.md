@@ -45,3 +45,5 @@ This project tracks development progress.
 # Update 2026-10-29
 
 - 2026-10-30 : Final testing and bug fixes
+
+- 2026-10-31 : Update documentation
